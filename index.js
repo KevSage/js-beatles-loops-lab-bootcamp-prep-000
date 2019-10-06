@@ -22,5 +22,6 @@ function iLoveTheBeatles(num) {
   var i = 0;
 do {
   emptyArr.push("I Love the Beatles!");
+  i++;
 } while (i <= repeats);
 }
