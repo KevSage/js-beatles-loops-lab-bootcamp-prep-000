@@ -24,4 +24,5 @@ do {
   emptyArr.push("I Love the Beatles!");
   i++;
 } while (i <= repeats);
+return emptyArr;
 }
