@@ -16,3 +16,9 @@ function johnLennonFacts(array) {
   }
   return factsArr;
 }
+function iLoveTheBeatles(num) {
+  var emptyArr = [];
+  var repeats = 15 - num;
+  if (num <= 15) {
+    emptyArr.push("I Love the Beatles!");
+}
